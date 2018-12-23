@@ -1,0 +1,53 @@
+body {
+    
+}
+
+.header{
+    position: relative;
+    background-color: #001F1F;
+    max-width: 100%;
+    text-align: center;
+}
+
+.content{
+    background-color: #efefef;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.navigation{
+    background-color: #550000;
+    
+}
+
+.footer{
+    background-color: #001F1F;
+    color: #FFFFFF;
+    border-top: 0.1em solid;
+    border-color: #000E0E;
+    
+}
+
+.footer-nav{
+    background-color: #550000;
+    min-height: 3em;
+    color: #FFFFFF;
+    font-size: 0.8em;  
+}
+
+.full-width{
+    min-width: 100%;
+    position: relative;
+}
+
+h3.footer{
+    color: #FFFFFF;
+}
+
+.logo{
+    position: absolute;
+    top: 10%;
+    right: 0px;
+}
+
+

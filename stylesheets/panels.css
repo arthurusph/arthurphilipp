@@ -1,0 +1,17 @@
+body {
+
+}
+
+.custom{
+    background-color: #AA3939;
+    border-color: #801515;    
+}
+
+.custom_00{
+    background: none;
+    border-color: #AA3939;
+}
+
+.footer-links{
+    line-height: 1.3;
+}

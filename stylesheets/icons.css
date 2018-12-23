@@ -1,0 +1,36 @@
+body {
+
+}
+
+[class*="fi-social-facebook"]{
+    font-size: 3em;
+    color: #3B5998;
+    margin: 0.10em 0.10em 0.10em 0.10em;
+    
+}
+[class*="fi-social-linkedin"]{
+    font-size: 3em;
+    color: #0e76a8;
+    margin: 0.10em 0.10em 0.10em 0.10em;
+    
+}
+   
+[class*="fi-social-youtube"]{
+    font-size: 3em;
+    color: #b31217;
+    margin: 0.10em 0.10em 0.10em 0.10em;
+    
+}
+[class*="fi-social-twitter"]{
+    font-size: 3em;
+    color: #55acee;
+    margin: 0.10em 0.10em 0.10em 0.10em;
+    
+}
+[class*="fi-social-google-plus"]{
+    font-size: 3em;
+    color: #dd4b39;
+    margin: 0.10em 0.10em 0.10em 0.10em;
+    
+}
+
